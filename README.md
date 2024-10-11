@@ -1,1 +1,1 @@
-# Handwritten-Digit-Recognizer-Using-CNN-and-LeNet-Models
+# Handwritten Digit Recognizer Using CNN and LeNet Models
